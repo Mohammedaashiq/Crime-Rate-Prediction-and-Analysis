@@ -1,0 +1,3 @@
+# Crime-Rate-Prediction-and-Analysis
+
+This project uses K means clustering algorithm to group data based on various factors like time, place, age, type of crime committed of accused. Crime data is stored in the database to perform the analysis. Data mining algorithm will extract information and patterns from the database. We achieve clustering by places where crime has occurred, accused involved in the crime and the time of crime taking place. Admin will enter crime details into the system required for prediction. Admin can view historical criminal data. Crime incident detection depends mainly on the historical crime record.
